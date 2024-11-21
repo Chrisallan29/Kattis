@@ -11,3 +11,6 @@
 | brexit | [brexit](https://github.com/Chrisallan29/Kattis/blob/main/Graph%20Traversal/Topological%20Sort/brexit/Solution.java) |
 | molekule | [molekule](https://github.com/Chrisallan29/Kattis/blob/main/Graph%20Traversal/Bipartite%20%26%20Cycle/molekule/Solution.java) |
 | birthday | [birthday](https://github.com/Chrisallan29/Kattis/blob/main/Graph%20Traversal/Articulation%20Points%20%26%20Bridges/birthday/Solution.java) |
+| grasshopper | [grasshopper](https://github.com/Chrisallan29/Kattis/blob/main/Graph%20Traversal/Knight%20Moves/grasshopper/Solution.java) |
+| caveexploration | [caveexploration](https://github.com/Chrisallan29/Kattis/blob/main/Graph%20Traversal/Articulation%20Points%20%26%20Bridges/caveexploration/Solution.java) |
+| cantinaofbabel  | [cantinaofbabel ](https://github.com/Chrisallan29/Kattis/blob/main/Graph%20Traversal/SCC/cantinaofbabel%20/Solution.java) |
